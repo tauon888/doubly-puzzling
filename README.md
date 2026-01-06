@@ -2,7 +2,7 @@
 Python script to solve the ABF Doubly Puzzling crossword grid
 
 Execute as follows...
-'''
+`
 $ python doubly.py
 |_|@|_|@|_|_|_|_|_|_|@|_| (1)
 |_|_|_|@|_|@|@|_|_|_|_|_|
@@ -32,4 +32,4 @@ $ python doubly.py
 
 Execution time: 3.0562 seconds
 $ 
-'''
+`
