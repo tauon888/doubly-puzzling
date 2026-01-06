@@ -1,5 +1,5 @@
 #
-# double.py
+# doubly.py
 #     A simple program to solve the crossword.
 #
 # Author: Mike Smith
